@@ -1,4 +1,4 @@
-name: taxi_rides_hourly_inference_pipeline
+name: nyc_time_hourly_inference_pipeline
 
 on:
   workflow_run:
