@@ -1,8 +1,8 @@
 name: nyc_time_hourly_features_pipeline
 
 on:
-  schedule:
-    - cron: '2 * * * *' # Runs every hour
+ # schedule:
+   # - cron: '2 * * * *' # Runs every hour
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
